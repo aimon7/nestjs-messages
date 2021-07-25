@@ -26,6 +26,7 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+A nestjs app from Udemy Course: NestJS: The Complete Developer's Guide.
 Store & retrieve messages stored in a plain JSON file
 
 ## Installation
